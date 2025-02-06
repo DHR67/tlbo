@@ -17,8 +17,8 @@ The dataset contains academic and demographic details of students from two Portu
 ## **Project Structure**
 
 ├── data/                      # Dataset Files (student-mat.csv, student-por.csv)
-├── src/                       # Source Code Files 
-│   ├── preprocess.py          # Data Preprocessing and Encoding 
+├── src/                       # Source Code Files
+│   ├── preprocess.py          # Data Preprocessing and Encoding
 │   ├── models.py              # Machine Learning Models Implemented
 │   ├── tlbo.py                # TLBO Algorithm Implementation
 │   ├── hybrid_tlbo.py         # Hybrid TLBO Optimization
